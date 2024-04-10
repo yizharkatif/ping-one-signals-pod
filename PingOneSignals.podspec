@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name                    = 'PingOneSignals'
-  s.version                 = '5.2.1_2'
+  s.version                 = '5.2.1.2'
   s.summary                 = 'PingOne Signals iOS SDK'
   s.swift_versions 	    = ['5.0']
   s.platform                = :ios
